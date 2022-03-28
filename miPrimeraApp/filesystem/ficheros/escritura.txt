@@ -1,0 +1,6 @@
+texto a escribir en el ficherotexto a escribir en el fichero
+
+Texto del asincronotexto a escribir en el fichero
+
+Texto del asincrono
+Texto escrito desde la promesa
